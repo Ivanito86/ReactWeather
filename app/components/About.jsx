@@ -8,6 +8,7 @@ var React = require('react');
 //     }
 // });
 
+
 // Refactoring stateless functional components
 var About = (props) => {
     return(
